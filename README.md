@@ -8,3 +8,5 @@ Fazendo uma alteração no README local
 Outro membro do time fez uma alteração no código
 
 -- Conflito: Uma alteração LOCAL no Readme
+
+-- Conflito: alteração REMOTA no Readme
