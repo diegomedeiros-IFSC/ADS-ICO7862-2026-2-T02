@@ -2,3 +2,5 @@
 Repositório da turma 02 da disciplina de ICO7862 em 2026-2
 
 Fazendo uma alteração no README diretamente no GITHUB
+
+Fazendo uma alteração no README local
